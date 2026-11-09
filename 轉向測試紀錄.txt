@@ -1,0 +1,26 @@
+pybullet build time: Nov 21 2025 09:54:24
+test_left_turn_faces_and_moves_left (test_heading.HeadingTests.test_left_turn_faces_and_moves_left) ... ok
+test_ninety_degree_direction_change (test_heading.HeadingTests.test_ninety_degree_direction_change) ... ok
+test_obstacle_is_added_and_sensed_in_front_of_turned_head (test_heading.HeadingTests.test_obstacle_is_added_and_sensed_in_front_of_turned_head) ... ok
+test_right_turn_faces_and_moves_right (test_heading.HeadingTests.test_right_turn_faces_and_moves_right) ... ok
+test_changed_course_is_not_a_fixed_trajectory (test_obstacles.ObstacleTests.test_changed_course_is_not_a_fixed_trajectory) ... ok
+test_disabled_avoidance_really_hits_the_obstacle (test_obstacles.ObstacleTests.test_disabled_avoidance_really_hits_the_obstacle) ... ok
+test_impassable_wall_stops_without_contact (test_obstacles.ObstacleTests.test_impassable_wall_stops_without_contact) ... ok
+test_lidar_detects_new_low_box_and_excludes_robot_and_floor (test_obstacles.ObstacleTests.test_lidar_detects_new_low_box_and_excludes_robot_and_floor) ... ok
+test_new_obstacle_during_walking_is_seen_and_avoided (test_obstacles.ObstacleTests.test_new_obstacle_during_walking_is_seen_and_avoided) ... ok
+test_three_obstacles_reached_and_goal_stops (test_obstacles.ObstacleTests.test_three_obstacles_reached_and_goal_stops) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 124.271s
+
+OK
+argv[0]=
+argv[0]=
+argv[0]=
+argv[0]=
+argv[0]=
+argv[0]=
+argv[0]=
+argv[0]=
+argv[0]=
+argv[0]=

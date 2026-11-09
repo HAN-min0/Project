@@ -1,0 +1,4 @@
+# Verified with Python 3.11 on Windows.
+numpy==2.3.5
+gymnasium==1.2.2
+pybullet==3.2.7
